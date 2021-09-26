@@ -4,20 +4,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Site link https://world-leaders-chess-competition.netlify.app/
 
-In the project directory, you can run:
 
-### `npm start`
+### About the App
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This is a fantacy app of the world leaders. Every Player has a price. You can add players withing the budget of $50000. Each player has different price depending on the skills of the game. Create your fantacy team and win the competition.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Progress of the App
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The App Not yet Launched. Only few components of React is used. More update will come later. 
 
 ### `npm run build`
 
