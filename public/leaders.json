@@ -1,0 +1,119 @@
+[
+  {
+    "id": "a",
+    "name": "Sheikh Hasina",
+    "age": 55,
+    "country": "Bangladesh",
+    "img": "https://assets.unenvironment.org/championsofearth/2020-11/PM_Sheikh_Hasina_rev.jpg?null",
+    "price": 15000,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+  },
+  {
+    "id": "b",
+    "name": "Justin Trudeau",
+    "age": 50,
+    "country": "Canada",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Justin_Trudeau_June_13_2017.jpg",
+    "price": 11000,
+    "flag": "https://en.wikipedia.org/wiki/Canada#/media/File:Flag_of_Canada_(Pantone).svg"
+  },
+  {
+    "id": "c",
+    "name": "Angela Merkel",
+    "age": 55,
+    "country": "Germany",
+    "img": "http://prod-upp-image-read.ft.com/8aa7aee6-29de-11e3-bbb8-00144feab7de",
+    "price": 15000,
+    "flag": "https://en.wikipedia.org/wiki/Germany#/media/File:Flag_of_Germany.svg"
+  },
+  {
+    "id": "d",
+    "name": "Kim Jong-un",
+    "age": 40,
+    "country": "North Korea",
+    "img": "https://lh3.googleusercontent.com/proxy/NB2TRzWR13w6ZVgpjxowYufZepaF7DYUFp_SpyL-Beko7Npu9YwwVU1ySGnvXIn9BOxN3-JjFJcx10A_mM0KkKCgj98LmXuK74siHmS5i71J8Dp-WHghQNE",
+    "price": 14000,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg"
+  },
+  {
+    "id": "m",
+    "name": "Narendra Modi",
+    "age": 71,
+    "country": "India",
+    "img": "https://images.assettype.com/freepressjournal/import/2019/05/Narendra-Modi-8-1.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+    "price": 9000,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg"
+  },
+  {
+    "id": "e",
+    "name": "Jacinda Ardern",
+    "age": 41,
+    "country": "New Zealand",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b6/New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg",
+    "price": 12000,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+  },
+  {
+    "id": "f",
+    "name": "Imran Khan",
+    "age": 69,
+    "country": "Pakistan",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Imran_Ahmed_Khan_Niazi_-_UNGA_%2848784380531%29_%28cropped%29.jpg",
+    "price": 10000,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+  },
+  {
+    "id": "g",
+    "name": "Vladimir Putin",
+    "age": 69,
+    "country": "Russia",
+    "img": "https://wallpaperaccess.com/full/2033022.jpg",
+    "price": 15000,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg"
+  },
+  {
+    "id": "h",
+    "name": "Joe Biden",
+    "age": 79,
+    "country": "United States",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Joe_Biden_presidential_portrait.jpg",
+    "price": 15000,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg"
+  },
+  {
+    "id": "i",
+    "name": "Boris Johnson",
+    "age": 53,
+    "country": "United Kingdom",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Boris_Johnson_official_portrait_%28cropped%29.jpg",
+    "price": 10000,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+  },
+  {
+    "id": "j",
+    "name": "Michael D. Higgins",
+    "age": 80,
+    "country": "Ireland",
+    "img": "https://i.guim.co.uk/img/media/47436e0cf2b9fcb0094d3838bb9ce19be5703758/0_95_3500_2101/master/3500.jpg?width=445&quality=45&auto=format&fit=max&dpr=2&s=f9f1ce89f4899878045a6e9ad2b3c08e",
+    "price": 8000,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
+  },
+  {
+    "id": "k",
+    "name": "Scott Morrison",
+    "age": 42,
+    "country": "Australia",
+    "img": "https://www.tagesschau.de/multimedia/bilder/australien-premierminister-scott-morrison-101~_v-original.jpg",
+    "price": 8000,
+    "flag": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg"
+  },
+  {
+    "id": "l",
+    "name": "Emmanuel Macron",
+    "age": 55,
+    "country": "France",
+    "img": "https://s.france24.com/media/display/ef816d5e-fec2-11eb-ac06-005056a90284/000_9L92NA.jpg",
+    "price": 7000,
+    "flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"
+  }
+]

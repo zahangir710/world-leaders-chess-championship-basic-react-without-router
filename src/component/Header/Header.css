@@ -1,0 +1,25 @@
+.header-container {
+  text-align: center;
+  color: #05627c;
+}
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #20232ae0;
+}
+.nav-bar img {
+  margin-right: 50px;
+  padding: 10px;
+}
+.nav-bar nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 20px;
+  transition: all linear 0.3s;
+  padding: 30px;
+}
+.nav-bar nav a:hover {
+  color: #67cde9;
+  border-bottom: 3px solid #67cde9;
+}
